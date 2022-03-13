@@ -62,5 +62,11 @@
   - [Medium Erick Wendel](https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b)
 </details>
 
+## Generators, Iterators e Async Iterators
 
+<details>
+  <summary>References</summary>
 
+  - [Javascript Info](https://javascript.info/async-iterators-generators)
+  - [Jake Archibald](https://jakearchibald.com/2017/async-iterators-and-generators/)
+</details>
