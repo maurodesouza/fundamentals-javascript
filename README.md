@@ -34,3 +34,13 @@
 
 </details>
 
+## Type coercion & Objects lifecycle
+
+<details>
+  <summary>References</summary>
+
+  [Free Code Camp](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839)
+  [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
+
+</details>
+
