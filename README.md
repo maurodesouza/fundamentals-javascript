@@ -44,3 +44,14 @@
 
 </details>
 
+## Prototype Chain
+
+<details>
+  <summary>References</summary>
+
+  [Chamika Kasun](https://chamikakasun.medium.com/javascript-prototype-and-prototype-chain-explained-fdc2ec17dd04)
+  [Free Code Camp](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)
+
+</details>
+
+
