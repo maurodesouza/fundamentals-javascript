@@ -24,3 +24,13 @@
   [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 
 </details>
+
+## Immutability vs Mutability
+
+<details>
+  <summary>References</summary>
+
+  [Code Burst](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+
+</details>
+
