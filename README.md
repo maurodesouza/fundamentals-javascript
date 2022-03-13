@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Fundamentals Javascritpt</h1>
+    <h1>Fundamentals Javascript</h1>
 </div>
 
 ## Strict Mode
