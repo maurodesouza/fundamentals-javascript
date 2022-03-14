@@ -70,3 +70,12 @@
   - [Javascript Info](https://javascript.info/async-iterators-generators)
   - [Jake Archibald](https://jakearchibald.com/2017/async-iterators-and-generators/)
 </details>
+
+## Proxy and node timers
+
+<details>
+  <summary>References</summary>
+
+  - [Keith Cirkel](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/)
+</details>
+
